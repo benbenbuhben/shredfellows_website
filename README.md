@@ -74,6 +74,6 @@ Multiple components handle this part.
 
 ```
 
-## Authors (in alphabetical order)
+## Authors
 
 Ben Hurst, Justin Morris
