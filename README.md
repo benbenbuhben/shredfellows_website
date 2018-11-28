@@ -1,6 +1,6 @@
 # ![./src/assets/img/shred-p-logo-01-01.png](./src/assets/img/shred-p-logo-01-01.png)
 
-Deployed site: [http://shredfellows.ccs.net/](http://shredfellows.ccs.net/)
+**Live Site (be patient with Heroku):** [http://shredfellows.ccs.net/](http://shredfellows.ccs.net/)
 
 ## Project
 
