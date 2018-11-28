@@ -1,7 +1,5 @@
 # ![./src/assets/img/shred-p-logo-01-01.png](./src/assets/img/shred-p-logo-01-01.png)
 
-GitHub Repo: [https://github.com/shredfellows/website](https://github.com/shredfellows/website)
-
 Deployed site: [http://shredfellows.ccs.net/](http://shredfellows.ccs.net/)
 
 ## Project
