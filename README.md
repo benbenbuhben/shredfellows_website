@@ -6,44 +6,17 @@ Deployed site: [http://shredfellows.ccs.net/](http://shredfellows.ccs.net/)
 
 ## Project
 
-This application is accsessible through canvas for CodeFellows students and as guest for everyone with a GitHub account. ShredFellows pulls data from github and displays a video and instructions that is relevant to a code challenge or challenges. The user can write and test code in a repl envirpnment. Students are able save their code and get a link to their solution to submit.
+This application is accessible through CanvasInstructure for CodeFellows students and as a guest for anyone with a GitHub account. Educational content and challenges are dynamically populated through a staff-maintained GitHub Repo. Students can watch tutorials, read instructive documentation, take notes, and practice new concepts in a persistent REPL (code editor). Assigned challenges can be submitted directly back to Canvas for instructional staff to track and grade.
 
-### Limitations
+### Technologies Used
 
-To use this app - it is assumed that the user has familiarity with the tech and frameworks listed below, and a GitHub account with the profile name filled out.
-
-### Code
-
-Standard JavaScript with React, ES6, SASS, CSS, HTML
-
-### Tech/Framework Used
-
-* babel-core
-* babel-loader
-* babel-plugin-transform-object-rest-spread
-* babel-preset-es2015
-* babel-preset-react
-* css-loader
-* eslint-plugin-react
-* extract-text-webpack-plugin
-* html-webpack-plugin
-* node
-* node-sass
-* react
-* react-dom
-* react-redux
-* resolve-url-loader
-* sass-loader
-* superagent
-* webpack
-* webpack-dev-server
-* eslint
+ReactJS, ExpressJS, MongoDB, Webpack, various node modules.
 
 ### Test runner
 
 * jest-enzyme
 
-## How to use?
+## Getting Started in Development
 
 * Step 1. Fork and Clone the Repository.
 * Step 2. `npm install` on both Service and Website
