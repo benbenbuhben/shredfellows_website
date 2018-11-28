@@ -23,7 +23,7 @@ ReactJS, ExpressJS, MongoDB, Webpack, various node modules.
 * Step 3. Run Mongo DB
 * Step 4. `npm run watch` Services, `npm run start` Website
 * Step 5. You should now be able to visit: `http://localhost:8080` to log in to the application
-* Step 6. Choose login with your github account
+* Step 6. Login with your GitHub account
 * Step 7. Choose a challenge from the menu and code away
 
 ## User Flow:
@@ -76,8 +76,4 @@ Multiple components handle this part.
 
 ## Authors (in alphabetical order)
 
-Khalil Ahmed, Jen Bach, Jason Burns, Timea Heidenreich, Ben Hurst, Justin Morris, Ovi Parasca, Michael Sklepowich
-
-## Credits
-
-To John Cokos and Catherine Looper for the research, help and guidance
+Ben Hurst, Justin Morris
